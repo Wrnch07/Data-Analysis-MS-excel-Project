@@ -1,1 +1,1 @@
-# Data-Analysis-MS-excel-Project
+Data Analysis Project of a Store through MS Exce
